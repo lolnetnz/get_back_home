@@ -45,7 +45,7 @@ public class GetBackToHome
     public void init(FMLInitializationEvent event)
     {
         // some example code
-        logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
+        // logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
     }
 
     @EventHandler
